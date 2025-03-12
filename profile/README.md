@@ -7,7 +7,7 @@ MadHoney Lab is the creative force behind [madhoney.fi](https://madhoney.fi) and
 ### Our Projects
 
 - **Mad Bears NFT**: A unique collection of bear-themed digital assets with utility across our ecosystem.
-  [The Mad Bears][https://madhoney.fi](https://magiceden.io/collections/berachain/0xff813d6121142db3a0545c67e4c047d51061f736)
+  [The Mad Bears](https://magiceden.io/collections/berachain/0xff813d6121142db3a0545c67e4c047d51061f736)
 - **MadHoney.fi**: Our hub for DeFi innovations and Web3 projects
 - **Community Tools**: Open-source utilities supporting our growing community
 
