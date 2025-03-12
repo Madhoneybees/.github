@@ -11,13 +11,6 @@ MadHoney Lab is the creative force behind [madhoney.fi](https://madhoney.fi) and
 - **MadHoney.fi**: Our hub for DeFi innovations and Web3 projects
 - **Community Tools**: Open-source utilities supporting our growing community
 
-### Our Technology Stack
-
-- Solidity Smart Contracts
-- React/Next.js Frontends
-- Node.js Backend Services
-- Blockchain Indexing & Analytics
-
 ### Connect With Us
 
 - [Website](https://madhoney.fi)
